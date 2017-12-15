@@ -5,3 +5,4 @@ sklearn
 scipy
 seaborn
 keras
+TensorFlow

@@ -3,6 +3,6 @@ matplotlib
 pandas
 scipy
 seaborn
-slearn
+sklearn
 xlrd
 keras

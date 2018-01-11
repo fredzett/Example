@@ -1,4 +1,5 @@
 numpy
+xlrd
 matplotlib
 pandas
 seaborn

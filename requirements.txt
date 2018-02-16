@@ -1,8 +1,6 @@
 numpy
+xlrd
 matplotlib
 pandas
-scipy
 seaborn
 sklearn
-xlrd
-keras
